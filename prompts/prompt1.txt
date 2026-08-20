@@ -1,0 +1,67 @@
+Treat all provided reference images and reference videos as authoritative visual references for one single exact physical product.
+
+The references exist ONLY to define the product’s identity, geometry, appearance, surfaces, packaging, and details. Do not treat the backgrounds, lighting, environments, camera angles, or motion in the references as creative constraints, except as product-identity information when needed.
+
+Create a premium cinematic commercial video featuring this exact product. You have creative freedom over the environment, background, lighting, composition, atmosphere, and overall advertising style. The final result should feel polished, cinematic, visually rich, and high-end.
+
+The commercial should include elegant, controlled motion around the product. Use a subtle cinematic orbit, arc, or rotational reveal — approximately a small to moderate movement, such as around 30 to 45 degrees of orbit or product reveal — enough to feel dynamic and premium, but not so much that the product becomes hard to read or unstable. The motion should feel smooth, deliberate, and commercial, with the product always remaining the clear hero of the shot.
+
+The product itself is STRICTLY LOCKED.
+
+Preserve the exact same physical product throughout every frame.
+
+Maintain exact consistency of:
+
+* overall geometry and proportions
+* silhouette and dimensions
+* shape of every structural component
+* materials and surface finishes
+* colors and color boundaries
+* logos and brand marks
+* typography
+* written text
+* numbers and symbols
+* label artwork
+* illustrations and graphic elements
+* label placement and alignment
+* lids, caps, rims, seams, handles, openings, buttons, and all structural details
+* barcodes, nutrition panels, instructional panels, icons, and all small packaging elements
+* the spatial relationship between all details on every side of the product
+
+Treat the provided views as different observations of the SAME physical object. Combine them into one coherent three-dimensional product.
+
+When the camera moves or the product turns, reveal the correct corresponding surfaces from the references. Maintain the correct ordering, placement, and continuity of all graphics, text, and structural details around the object.
+
+Do not redesign the product.
+
+Do not create a different version of the product.
+
+Do not simplify packaging.
+
+Do not replace text with approximate or invented text.
+
+Do not invent logos, labels, symbols, graphics, or product features.
+
+Do not move graphics to different positions.
+
+Do not merge details from different sides incorrectly.
+
+Do not duplicate logos or text.
+
+Do not allow labels or textures to slide, drift, or morph across the product surface.
+
+Do not allow typography, graphics, colors, geometry, or proportions to change between frames.
+
+Do not introduce temporal product drift.
+
+Do not reinterpret visible product details when an authoritative reference exists.
+
+If a product detail is not visible in any provided reference, avoid inventing a strong new design feature for that area. Prioritize consistency with the known product structure.
+
+The product must appear as one stable, rigid, real manufactured object photographed continuously throughout the video, regardless of camera motion, orbit, lighting changes, environmental effects, reflections, or scene complexity.
+
+Creative freedom applies to EVERYTHING AROUND the product.
+
+Strict reference fidelity applies to EVERYTHING THAT IS PART OF the product.
+
+The final result should look like a high-end cinematic brand commercial with elegant moderate orbiting or rotational motion, while keeping the referenced product visually identical, recognizable, stable, and internally consistent throughout the entire video.

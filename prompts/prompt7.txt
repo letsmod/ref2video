@@ -1,0 +1,91 @@
+# Lines starting with '#' are notes and are stripped before the prompt is sent.
+# In-use commercial with a threaded screw-lid. Image refs = exact product/branding.
+# Do not copy reference still-life (floating lid). The lid must unscrew, then lift.
+
+Treat all provided reference images and reference videos as authoritative visual references for one single exact physical product.
+
+The references exist ONLY to define the product’s identity, geometry, appearance, materials, packaging, branding, typography, labels, artwork, structure, contents, and all visible details. Do not treat the backgrounds, lighting, environments, camera angles, poses, or still-life styling in the references as creative constraints, except when needed to understand the product itself.
+
+Create a short premium cinematic commercial of this exact product being opened and used by a real human. Photorealistic, intimate, polished, advertising-quality. The human is supporting talent. The product and its branding are the hero.
+
+SETUP (different from a floating still-life or a simple lid-lift): a quiet morning bathroom vanity. Soft natural window light from the side, pale stone or ceramic counter, a small folded towel, steam-free and clean. The closed jar sits planted on the counter, already large in frame. A real person is seated or standing at the vanity; we see hands, forearms, and enough of the face/shoulders to read a skincare ritual, not a full-body fashion shot.
+
+MOTION: the camera starts at tabletop height at the SIDE of the product, so we first see the jar in profile while the hands begin to open it. During the unscrewing, the camera slowly orbits around the jar toward the front until it is facing the product straight on, with the front label filling the frame and fully legible. One continuous, elegant orbit — about a quarter turn, from side to front — smooth, premium, and matched to the lid turns. No whip pans. No full 360. Keep the jar body planted on the counter as the hero of the orbit.
+
+The opening must be a real threaded screw cap. The lid does NOT pop off, hover, or lift first.
+
+Exact opening action:
+
+* One hand holds the jar body still on the counter so the front label stays fixed in world space and does not spin with the lid. As the camera orbits from the side to the front, that label is gradually revealed and becomes fully readable when the camera arrives facing the product.
+* The other hand grips the lid and turns it counterclockwise, like unscrewing a real jar. Complete two to three visible rotations. The lid must rotate independently of the jar body. Show the threads working: the lid rises a little on the threads with each turn before it is free.
+* Only after those turns, when the lid is fully unscrewed, lift it straight up and set it aside on the counter, still in frame. Do not teleport the lid. Do not leave it floating in mid-air.
+* Then scoop the actual contents with the fingers and apply them in a slow, realistic way.
+
+When the pack is opened, the visible contents must match the references: the same color, opacity, thickness, surface texture, peaks, and material look. Hands may touch the product, but they must not smear, melt, recolor, or redesign the contents into a different substance.
+
+End on a satisfying branded hero: open jar on the counter, lid resting beside it, label facing camera, identity unmistakable.
+
+The product itself is STRICTLY LOCKED.
+
+Preserve the exact same physical product throughout every frame.
+
+Maintain exact consistency of:
+
+* overall geometry and proportions
+* silhouette and dimensions
+* shape of every structural component
+* materials and surface finishes
+* colors and color boundaries
+* logos and brand marks
+* typography
+* written text
+* numbers, units, and symbols
+* label artwork
+* illustrations and graphic elements
+* label placement and alignment
+* lids, caps, rims, threads, seams, and all structural details
+* barcodes, nutrition panels, instructional panels, icons, and all small packaging elements
+* the spatial relationship between all details on every side of the product
+* the appearance of any visible product contents
+
+Treat the provided views as different observations of the SAME physical object. Combine them into one coherent three-dimensional product.
+
+When the lid turns, the camera orbits from the side to the front, or a new angle is revealed, show the correct corresponding surfaces from the references. The jar-body label must not spin with the lid. Threads, rim, and lid underside should look like the same manufactured pack, not a redesigned cap.
+
+Hands, fingers, skin, water, and application motion must never distort the packaging. Labels must not wrap onto fingers, slide around the jar, stretch, melt, or become gibberish. Branding that is facing the camera must remain the same brand, the same lettering, and the same layout as the references.
+
+Do not redesign the product.
+
+Do not create a different version of the product.
+
+Do not simplify packaging.
+
+Do not replace text with approximate, misspelled, or invented text.
+
+Do not invent logos, brand names, labels, symbols, graphics, or product features.
+
+Do not move graphics to different positions.
+
+Do not merge details from different sides incorrectly.
+
+Do not duplicate logos or text.
+
+Do not allow labels or textures to slide, drift, flicker, or morph across the product surface.
+
+Do not allow typography, graphics, colors, geometry, or proportions to change between frames.
+
+Do not introduce temporal product drift.
+
+Do not lift, hover, or pop the lid without unscrewing it first.
+
+Do not let the human, wardrobe, or effects occlude the main brand lockup for the whole commercial.
+
+Do not turn the product into a generic unbranded object during use.
+
+If a product detail is not visible in any provided reference, avoid inventing a strong new design feature for that area. Prioritize consistency with the known product structure.
+
+Creative freedom applies to EVERYTHING AROUND the product, including the human, set, and lighting.
+
+Strict reference fidelity applies to EVERYTHING THAT IS PART OF the product, including branding, lid, threads, and contents.
+
+The final result should look like a high-end cinematic commercial of a real person unscrewing this exact jar — turning the lid two to three times, then lifting it — while the camera slowly orbits from the side of the product to a front-facing branded hero, with the referenced packaging, branding, and details remaining visually identical, readable, stable, and internally consistent throughout the entire video.

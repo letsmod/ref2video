@@ -1,0 +1,17 @@
+Use all provided image references as authoritative references for the exact physical product. They define the product’s identity, geometry, materials, packaging, colors, branding, typography, labels, artwork, structure, and all visible details.
+
+Use all provided video references only as motion references. Follow them for the helix camera motion, orbit style, pacing, and movement feel. Do not copy their product appearance or environment.
+
+Create a short premium cinematic commercial. The product begins partially or mostly covered by beautiful autumn leaves. As the shot progresses, the leaves naturally slide, lift, and drift away, gradually uncovering the product in an elegant reveal.
+
+The camera performs a smooth helical orbit around the product: it starts slightly farther away, then continuously circles while gradually moving closer toward the product’s surface, creating a spiraling inward motion. Keep the product as the hero at all times.
+
+Add tasteful atmosphere: floating leaf particles, soft light rays, subtle glow, gentle breeze, and premium lighting. Make the scene polished, seasonal, dynamic, and advertising-quality.
+
+The product itself is STRICTLY LOCKED to the image references. Preserve the exact same product in every frame: geometry, proportions, silhouette, materials, colors, logos, typography, text, label artwork, graphics, packaging layout, seams, structural details, icons, and all recognizable features.
+
+Treat all image references as different views of the same coherent 3D object. As the leaves uncover it and the camera spirals inward, reveal the correct corresponding surfaces from the references.
+
+Do not redesign, simplify, invent, duplicate, or drift product details. Do not allow labels, textures, branding, text, geometry, colors, or proportions to slide, morph, flicker, or change between frames.
+
+Image references define what the product is. Video references define how it moves.

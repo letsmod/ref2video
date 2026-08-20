@@ -1,0 +1,13 @@
+# Lines starting with '#' are notes and are stripped before the prompt is sent.
+# Cite each reference video inline as @Video 1, @Video 2, ...
+# Multi-shot: use "Shot 1:", "Shot 2:" blocks. Budget roughly 5s of duration per shot.
+
+Shot 1: A lone cyclist rides down a rain-slicked street at night, neon shop signs
+smearing into the wet asphalt. The camera tracks alongside at wheel height, matching
+the steady dolly motion of @Video 1.
+
+Shot 2: The camera rises and slows as the cyclist passes under a railway bridge,
+headlights flaring across the lens. Reflections ripple in the puddles below.
+
+Style: cinematic, photorealistic, shallow depth of field, cool teal and magenta
+grade. Audio: hiss of tyres on wet tarmac, distant traffic, a train rumbling overhead.

@@ -1,0 +1,88 @@
+Treat all provided reference images and reference videos as authoritative visual references for one single exact physical product.
+
+The references exist ONLY to define the product’s identity, geometry, appearance, materials, packaging, branding, and all visible details. Do not treat the backgrounds, environments, lighting, camera movement, or styling in the references as creative constraints, except when needed to understand the product itself.
+
+Create a short premium commercial video featuring this exact product, with a more creative, fun, and visually exciting advertising style. The result should feel cinematic, imaginative, dynamic, and high-end, while keeping the product itself strictly correct and fully consistent.
+
+You have full creative freedom over the environment, background, color mood, atmosphere, lighting, motion design, visual effects, overlays, transitions, reflections, particles, and overall artistic direction. Make the surrounding presentation feel bold, stylish, and memorable.
+
+Include expressive commercial motion, not just a simple orbit. Use a combination of creative product-focused movements such as a subtle orbit, a short push-in, a small arc, a reveal move, a slight rotational change, a dynamic angle shift, or a stylish hero move. The motion should feel smooth, intentional, and premium, while always keeping the product readable and centered as the hero.
+
+Add fun creative advertising elements around the product, such as:
+
+* cinematic lighting sweeps
+* floating particles
+* soft glows
+* elegant streaks of light
+* subtle motion graphics
+* premium graphic overlays
+* animated highlights
+* tasteful reflections
+* speed-ramped reveal moments
+* atmospheric depth
+* stylized energy around the product
+* category-appropriate visual effects
+* bold but clean commercial transitions
+* abstract premium design elements that enhance the shot
+
+These effects should make the commercial feel exciting and modern, but they must never overpower, block, distort, or replace the product.
+
+The product itself is STRICTLY LOCKED.
+
+Preserve the exact same physical product throughout every frame.
+
+Maintain exact consistency of:
+
+* overall geometry and proportions
+* silhouette and dimensions
+* shape of every structural component
+* materials and surface finishes
+* colors and color boundaries
+* logos and brand marks
+* typography
+* written text
+* numbers and symbols
+* label artwork
+* illustrations and graphic elements
+* label placement and alignment
+* lids, caps, rims, seams, handles, openings, buttons, and all structural details
+* barcodes, nutrition panels, instructional panels, icons, and all small packaging elements
+* the spatial relationship between all details on every side of the product
+
+Treat the provided views as different observations of the SAME physical object. Combine them into one coherent three-dimensional product.
+
+When the camera moves, the product turns, or the product is revealed from different angles, show the correct corresponding surfaces from the references. Maintain correct continuity of all text, graphics, branding, materials, and structural details around the object.
+
+Do not redesign the product.
+
+Do not create a different version of the product.
+
+Do not simplify the packaging.
+
+Do not replace text with invented or approximate text.
+
+Do not invent logos, labels, symbols, graphics, or product features.
+
+Do not move graphics to incorrect positions.
+
+Do not merge details from different sides incorrectly.
+
+Do not duplicate logos or text.
+
+Do not allow textures, labels, branding, or graphics to slide, morph, flicker, or drift across the product.
+
+Do not allow geometry, proportions, colors, typography, or structural details to change between frames.
+
+Do not introduce temporal product drift.
+
+Do not let effects, overlays, or transitions obscure important product details.
+
+If a product area is not visible in the references, avoid inventing a strong new design for that area. Prioritize consistency with the known product structure.
+
+The product must appear as one stable, rigid, real manufactured object continuously existing throughout the video, even while the surrounding commercial treatment becomes creative, energetic, and visually rich.
+
+Creative freedom applies to EVERYTHING AROUND the product.
+
+Strict fidelity applies to EVERYTHING THAT IS PART OF the product.
+
+The final result should feel like a fun, stylish, visually inventive, high-end commercial with creative effects, motion, and overlays, while keeping the product visually identical, recognizable, stable, and fully consistent throughout the entire video.

@@ -1,0 +1,67 @@
+Treat all provided reference images and reference videos as authoritative visual references for one single exact physical product.
+
+The references exist ONLY to define the product’s identity, geometry, appearance, materials, packaging, branding, and all visible details. Do not treat the backgrounds, lighting, environments, or motion in the references as creative constraints, except when needed to understand the product itself.
+
+Create a short premium cinematic commercial video featuring this exact product in a fun, creative outdoor scene.
+
+The action should be as follows: the product enters the scene slightly rotated and falls naturally onto fresh green grass. It lands with believable physical weight and realistic gravity, then bounces twice in a controlled, visually pleasing way, and finally settles perfectly upright as the hero of the shot.
+
+The motion should feel physically convincing, smooth, and premium. The bounces should feel natural and caused by gravity, not exaggerated cartoon motion. The final upright position should feel satisfying, stable, and intentional, like a strong product hero reveal.
+
+Add stylish cinematic effects around the action, including soft light flares, glowing highlights, subtle grass movement, small grass particles or blades reacting to the impact, and tasteful environmental energy around the product. The grass should respond naturally when the product lands and bounces. Make the scene feel lively, dynamic, and commercial, with a polished high-end advertising look.
+
+You have full creative freedom over the surrounding cinematic treatment, lighting, atmosphere, color mood, camera style, and visual effects, as long as the product remains the clear hero and fully readable.
+
+The product itself is STRICTLY LOCKED.
+
+Preserve the exact same physical product throughout every frame.
+
+Maintain exact consistency of:
+
+* overall geometry and proportions
+* silhouette and dimensions
+* shape of every structural component
+* materials and surface finishes
+* colors and color boundaries
+* logos and brand marks
+* typography
+* written text
+* numbers and symbols
+* label artwork
+* illustrations and graphic elements
+* label placement and alignment
+* lids, caps, rims, seams, handles, openings, buttons, and all structural details
+* barcodes, nutrition panels, instructional panels, icons, and all small packaging elements
+* the spatial relationship between all details on every side of the product
+
+Treat the provided views as different observations of the SAME physical object. Combine them into one coherent three-dimensional product.
+
+When the product rotates, falls, bounces, or settles upright, reveal the correct corresponding surfaces from the references. Maintain correct continuity of all text, graphics, branding, materials, and structural details around the product.
+
+Do not redesign the product.
+
+Do not create a different version of the product.
+
+Do not simplify the packaging.
+
+Do not replace text with invented or approximate text.
+
+Do not invent logos, labels, symbols, graphics, or product features.
+
+Do not move graphics to incorrect positions.
+
+Do not merge details from different sides incorrectly.
+
+Do not duplicate logos or text.
+
+Do not allow textures, labels, branding, or graphics to slide, morph, flicker, or drift across the product.
+
+Do not allow geometry, proportions, colors, typography, or structural details to change between frames.
+
+Do not introduce temporal product drift.
+
+Do not let grass, effects, particles, or lighting obscure important product details.
+
+If a product area is not visible in the references, avoid inventing a strong new design for that area. Prioritize consistency with the known product structure.
+
+The final result should feel like a fun, stylish, high-end commercial: a product falling onto grass, bouncing twice with realistic gravity, then landing upright in a satisfying hero moment, surrounded by beautiful lighting and subtle grass effects, while the product remains visually identical, stable, and fully consistent throughout the entire video.

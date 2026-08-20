@@ -1,0 +1,18 @@
+# Secrets -- never commit the real keys (.env.example is the committed template)
+.env
+
+# Generated videos, spend log, and remembered upload URLs
+outputs/
+*.mp4
+*.mov
+cost_log.jsonl
+.upload_cache.json
+# v1 names, kept so an existing checkout stays clean after the upgrade
+seedance_cost_log.jsonl
+.segmind_upload_cache.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

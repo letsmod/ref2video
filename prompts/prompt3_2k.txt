@@ -1,0 +1,17 @@
+Treat all provided reference images and videos as authoritative references for one exact physical product. They exist ONLY to define its identity, geometry, appearance, materials, packaging, branding, and visible details. Do not use their backgrounds, lighting, environments, or motion as creative constraints.
+
+Create a short premium cinematic outdoor commercial. The product enters slightly rotated and falls naturally onto fresh green grass. It lands with believable weight and gravity, bounces twice in a controlled realistic way, then settles perfectly upright in a strong hero pose.
+
+Keep the physics smooth and convincing, never cartoonish. Add tasteful cinematic effects: soft light flares, glowing highlights, grass blades and small particles reacting naturally to each impact, subtle atmospheric energy, and polished premium lighting. Keep the product clearly visible and dominant.
+
+You have creative freedom over the environment, lighting, atmosphere, color mood, camera style, and effects.
+
+The product itself is STRICTLY LOCKED. Preserve the exact same product in every frame: geometry, proportions, silhouette, materials, surface finishes, colors, logos, typography, written text, numbers, symbols, label artwork, graphics, label placement, lids, caps, rims, seams, structural elements, barcodes, nutrition panels, icons, and all recognizable packaging details.
+
+Treat all provided views as observations of the SAME coherent 3D object. As it rotates, falls, bounces, and settles, reveal the correct surfaces from the references and preserve the correct continuity and placement of all details.
+
+Do not redesign, simplify, reinterpret, replace, duplicate, or invent product details. Do not allow labels, textures, branding, text, geometry, colors, or proportions to slide, morph, flicker, drift, or change between frames. Do not let effects or grass obscure important product details.
+
+If an area is not visible in the references, avoid inventing prominent new details.
+
+The final result should feel fun, stylish, cinematic, premium, and physically believable, while the product remains visually identical and fully consistent throughout.
